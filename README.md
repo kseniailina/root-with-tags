@@ -1,5 +1,3 @@
 # root-with-tags
 test tag
-blablabla
-blablabla
-blablabla
+test new tag
