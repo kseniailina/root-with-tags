@@ -1,6 +1,4 @@
 # root-with-tags
 test tag
-blabla
-blabla
-blablabla
+I am tesing tags
 test new tag
